@@ -1,0 +1,108 @@
+
+
+#tt{
+       background-image: url('images/banner/banner3.png');
+       
+       height: 803px;
+       width: fit to screen; 
+       text-align: right;
+}
+#btn {
+       background-color: aliceblue;
+       color: black;
+       
+}
+       h1 {
+       text-align: right;
+       font-family: sans-serif;
+
+       
+     }
+
+
+     p {
+       text-align: right;
+
+  }
+
+  #cr{
+       background-color: white;
+       text-align: center;
+  }
+  #rr{
+       background-image: url(images/person.png);
+       text-align: bottom right;
+       background-repeat: no-repeat;
+       background-position: left;
+       height:750px;
+       
+       
+  }
+
+h2{
+   text-align: center;    
+}
+
+.box {
+       height: fit-content;
+       display: flex;
+       align-content: center;
+     }
+     .box>* {
+       flex: 1 1 800px;
+     }
+     .hide {
+       visibility: collapse;
+     }
+ 
+#wd{
+      background-image: url(images/icons/web.png);
+      background-repeat: no-repeat;
+}
+
+#js{
+       /* <img src="P:\HERO_COURSE\projects\assignment-1\images\icons\js.png" alt=""> */
+       background-image: url(images/icons/js.png);
+       background-repeat: no-repeat;
+}
+
+#sh{
+       background-image: url(images/icons/smoke.png);
+       background-repeat: no-repeat;
+}
+#ee{
+       background-image: url(images/icons/ecom.png);
+       background-repeat: no-repeat;
+
+}
+
+.boxx{
+       height: 200px;
+}
+.rd{
+       background-image: url(images/watch.png);
+       
+       height: 300px;
+       width: 1000px;
+       background-position: center;
+}
+#cll{
+       background-color: aliceblue;
+       color: black;
+       text-align: left;
+}
+#zk{
+     text-align: right;
+}
+#sz{
+       color: aliceblue;
+       inline-size:100px 0px 0px 100px;
+       text-align: right;
+      initial-letter-align: right;
+}
+#cc{
+     
+       color: aliceblue;
+       width: 90% ;
+      
+}
